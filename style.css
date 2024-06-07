@@ -1,0 +1,22 @@
+body {
+    font-family: verdana, sans-serif;
+    background-color: rgb(255, 243, 243);
+}
+
+h1 {
+    text-align: center; 
+}
+.home { 
+    font-size: 22px; font-weight: bold; color: black;
+}
+
+.pic{
+    width: 500px;
+    height: auto;
+}
+
+.pic .home-page{
+    margin: 0 auto;
+    padding: 20px;
+    
+}
